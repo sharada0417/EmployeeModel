@@ -1,0 +1,26 @@
+2025-05-24 00:43:06,683 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-05-24 11:36:43,474 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-24 11:37:55,488 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:SecondChance:0.0.1-SNAPSHOT @ E:\d drive\SpringBoot\Day-5\SecondChance\pom.xml.
+2025-05-24 11:38:13,052 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-24 11:38:13,087 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-24 11:38:13,095 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\d drive\SpringBoot\Day-5\SecondChance\src\test\resources
+2025-05-24 11:41:25,045 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:SecondChance:0.0.1-SNAPSHOT @ E:\d drive\SpringBoot\Day-7\SecondChance\pom.xml.
+2025-05-24 11:41:26,948 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-24 11:41:26,981 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-24 11:41:26,990 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\d drive\SpringBoot\Day-7\SecondChance\src\test\resources
+2025-05-24 11:41:28,234 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:SecondChance:0.0.1-SNAPSHOT @ E:\d drive\SpringBoot\Day-7\SecondChance\pom.xml.
+2025-05-24 11:41:29,771 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-24 11:41:29,798 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-24 11:41:29,805 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\d drive\SpringBoot\Day-7\SecondChance\src\test\resources
+2025-05-24 11:41:31,060 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-24 11:41:31,063 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-24 11:41:31,068 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\d drive\SpringBoot\Day-7\SecondChance\src\test\resources
+2025-05-24 13:52:29,717 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:SecondChance:0.0.1-SNAPSHOT @ E:\d drive\SpringBoot\Day-5\SecondChance\pom.xml.
+2025-05-24 13:52:33,683 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:SecondChance:0.0.1-SNAPSHOT @ E:\d drive\SpringBoot\Day-5\SecondChance\pom.xml.
+2025-05-24 13:52:38,542 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-24 13:52:38,580 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-24 13:52:38,589 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\d drive\SpringBoot\Day-5\SecondChance\src\test\resources
+2025-05-24 13:52:42,492 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:SecondChance:0.0.1-SNAPSHOT @ E:\d drive\SpringBoot\Day-5\SecondChance\pom.xml.
+2025-05-24 13:52:42,564 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-24 13:52:42,591 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-24 13:52:42,599 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\d drive\SpringBoot\Day-5\SecondChance\src\test\resources
