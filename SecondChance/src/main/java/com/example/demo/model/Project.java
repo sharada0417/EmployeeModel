@@ -6,8 +6,7 @@ import jakarta.persistence.Id;
 @Entity
 public class Project {
 	@Id
-	private String empNo;
+	private int project_id;
 	private String name;
-	private int age;
-	private double salary;
+	private long totalcost;
 }
